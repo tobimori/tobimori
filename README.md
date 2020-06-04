@@ -1,2 +1,2 @@
-![](waving.gif)
+![](wave.gif)
 # Hi there!
