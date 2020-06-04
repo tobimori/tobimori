@@ -1,1 +1,2 @@
-👋 Hi there!
+![](waving.gif)
+# Hi there!
