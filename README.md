@@ -17,6 +17,16 @@
   or check out my latest works on 
   <br>
   <a href="https://dribbble.com/tobimori">Dribbble</a> and <a href="https://behance.net/tobimori">Behance</a>.
+</h3>
+
+<h3>
+  I also document social movements 
   <br>
+  and protests on the streets of Leipzig,
+  <br>
+  view my photos on <a href="https://flickr.com/tobimori">Flickr</a>.
+</h3>
+
+<h3>
   ― See ya! 👋
 </h3>
