@@ -1,4 +1,4 @@
-![](wave.gif)
+![](https://github.com/tobimori/tobimori/raw/main/wave.gif)
 <h1>
   Hi there ― <br> 
   my name is Tobias, <br> 
