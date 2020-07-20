@@ -20,13 +20,5 @@
 </h3>
 
 <h3>
-  I also document social movements 
-  <br>
-  and protests on the streets of Leipzig,
-  <br>
-  view my photos on <a href="https://flickr.com/tobimori">Flickr</a>.
-</h3>
-
-<h3>
   ― See ya! 👋
 </h3>
