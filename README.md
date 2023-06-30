@@ -11,6 +11,8 @@ available for work. → <a href='mailto:tobias@moeritz.io'>tobias@moeritz.io</a>
 - [kirby-magick-extended](https://github.com/tobimori/kirby-magick-extended): 🖼️ Add proper GIF & APNG support with ImageMagick
 - [kirby-baukasten](https://github.com/tobimori/kirby-baukasten): 🦎 Batteries-included Kirby Plainkit with Vite, TypeScript, SCSS & other best practices
 
-
-
 #### [Archive](https://github.com/tobimori?tab=repositories&q=&type=archived&language=&sort=)
+
+
+> Most of my side projects aare provided free of charge & published under the permissive MIT License. If you use them in a commercial project, please consider to [sponsor me on GitHub](https://github.com/sponsors/tobimori) to support further development and continued maintenance of my plugins.
+
