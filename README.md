@@ -14,5 +14,5 @@ available for work. → <a href='mailto:tobias@moeritz.io'>tobias@moeritz.io</a>
 #### [Archive](https://github.com/tobimori?tab=repositories&q=&type=archived&language=&sort=)
 
 
-> Most of my side projects aare provided free of charge & published under the permissive MIT License. If you use them in a commercial project, please consider to [sponsor me on GitHub](https://github.com/sponsors/tobimori) to support further development and continued maintenance of my plugins.
+> Most of my side projects are provided free of charge & published under the permissive MIT License. If you use them in a commercial project, please consider to [sponsor me on GitHub](https://github.com/sponsors/tobimori) to support further development and continued maintenance of my plugins.
 
