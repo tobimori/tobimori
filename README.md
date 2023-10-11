@@ -9,7 +9,7 @@ available for work. → <a href='mailto:tobias@moeritz.io'>tobias@moeritz.io</a>
 - [kirby-thumbhash](https://github.com/tobimori/kirby-thumbhash): 🚀 Image placeholders with ThumbHash
 - [kirby-tailwind-merge](https://github.com/tobimori/kirby-tailwind-merge): ♨️ Intelligently merge Tailwind classes without style conflicts in your Kirby templates
 - [kirby-magick-extended](https://github.com/tobimori/kirby-magick-extended): 🖼️ Add proper GIF & APNG support with ImageMagick
-- [kirby-baukasten](https://github.com/tobimori/kirby-baukasten): 🦎 Batteries-included Kirby Plainkit with Vite, TypeScript, SCSS & other best practices
+- [kirby-baukasten](https://github.com/tobimori/kirby-baukasten): 🦎 Batteries-included Kirby 4 Boilerplate with Tailwind CSS, Stimulus, TypeScript, Vite & other best practices
 
 #### [Archive](https://github.com/tobimori?tab=repositories&q=&type=archived&language=&sort=)
 
